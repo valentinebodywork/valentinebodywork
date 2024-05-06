@@ -10,7 +10,7 @@ description: "Hello, it's me, your body."
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: instagram.com/jennyvalentinecmt
+    url: https://www.instagram.com/jennyvalentinecmt/
 
 # Build settings
 markdown: kramdown
